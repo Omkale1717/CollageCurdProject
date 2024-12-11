@@ -14,6 +14,7 @@ public class Student {
 	private String std;
 	
 	@OneToOne
+	
 	private AddharCard add;
 	
 	
